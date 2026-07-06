@@ -12,7 +12,7 @@
 
 I build web and application projects with a strong interest in cybersecurity, clean interfaces, automation, and reliable backend systems.
 
-- Based in Tunisia.
+- Based in France.
 - Focused on application development, full-stack web, and secure systems.
 - Comfortable moving between frontend, backend, databases, DevOps, and security tooling.
 - Always learning, breaking things in labs, and rebuilding them better.
