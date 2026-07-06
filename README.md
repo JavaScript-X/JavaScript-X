@@ -63,10 +63,13 @@ I build web and application projects with a strong interest in cybersecurity, cl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JavaScript-X&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="JavaScript-X GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaScript-X&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaScript-X&theme=tokyonight)
 
-![GitHub streak](https://streak-stats.demolab.com?user=JavaScript-X&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JavaScript-X&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JavaScript-X&theme=tokyonight&utcOffset=1)
+
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JavaScript-X&theme=tokyonight)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JavaScript-X&theme=tokyonight)
 
 </div>
 
